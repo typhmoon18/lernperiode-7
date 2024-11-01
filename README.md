@@ -9,5 +9,9 @@ Ich habe mich vorallem mit dem Modul M320 befasst. ich habe mit Tom einen kleine
 Ich werde wieder mit Tom eine kleine Applikation mit OOP entwerfen, um von ihm zu lernen. zusätzlich werde ich noch die videos zur wiederholung abschliessen.
 
 ## 1.11 Reflexion
+Heute habe ich mit Tom Aggett und Eldin Mrkonjic den Promillerechner wiederholt. Dies hat mir geholfen zu verstehen, wie ich vom UML zum Code komme.
+## 8.11
+Ic hwerde mich wieter mit Javascript bekannt machen und tutorials für die Grundsätze machen.
+
 
 
