@@ -12,6 +12,16 @@ Ich werde wieder mit Tom eine kleine Applikation mit OOP entwerfen, um von ihm z
 Heute habe ich mit Tom Aggett und Eldin Mrkonjic den Promillerechner wiederholt. Dies hat mir geholfen zu verstehen, wie ich vom UML zum Code komme.
 ## 8.11
 Ich werde mich wieter mit Javascript bekannt machen und tutorials für die Grundsätze machen.
+## 8.11 Reflexion
+Heute habe ich wie geplant meine Javascript kenntnisse verbessert. Ich habe verschiedene videos geschaut zb: https://www.youtube.com/watch?v=xwKbtUP87Dk
+Am Mittwoch habe ich gesehen das ich noch nicht so gute kenntnisse habe darum habe ich hier dies erarbeitet.
+
+## Recap M320
+Die Modulprüfung war sicher eine der schwierigsten, aber ich bin zuversichtlich das ich das 4.5er Ziel erreichen kann. Ich hatte, bis auf einen kleinen Fehler, einen funktionierenden Code. und konnte bis auf die Theoriefragen alles ziemlich gut lösen.
+
+## 15.11
+Ich werde mich nächstes Mal primär damit beschäftigen was ich noch im Modul im grossen und ganzen erledigen will.
+Auch werde ich gemessen am gelernten vom Mittwoch Javascript noch mals anschauen.
 
 
 
