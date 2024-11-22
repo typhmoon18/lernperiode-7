@@ -26,6 +26,11 @@ Ich habe heute den CRUD Auftrag wiederholt, der mir am Mittwoch grosse Schwierig
 
 ## 22.11
 Ich werde dann eine Rekapitulation von der Javascript OBA aus dem Modul294 machen. Zusätzlich werde ich Aufträge wiederholen, welche ich am Mittwoch nicht verstanden habe.
+Reflexion.
+Ich habe mich heute wieder mit CRUD beschäftigt, da die Lehrperson nicht zufrieden mit meiner Lösung war. Zusätzlich habe ich die falsche Auftragsversion erwischt und musste den Auftrag nochmals wiederholen. somit habe ich jetzt das ganze nochmnals deutlich besser verstanden als vorher
+
+## 29.11
+Ich werde an der LB vom Modul 364 arbeiten.
 
 
 
