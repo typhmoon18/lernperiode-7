@@ -32,5 +32,11 @@ Ich habe mich heute wieder mit CRUD beschäftigt, da die Lehrperson nicht zufrie
 ## 29.11
 Ich werde an der LB vom Modul 364 arbeiten.
 
+Reflexion:
+Ich habe an der Lb gearbeitet und die ersten 3 Handlungsziele fertiggestellt. Ich hatte primär probleme mit der Lb und wie sie aufgebaut war (keine Aufgaben, nur Erwartungen an die Löung, welche sehr ungenau beschrieben wurden) auch das technische Konzept vom System bereitete mir Probleme. Schlussendlich konnte ich trotzem pünktlich alles abschliessen.
+
+## 6.11
+Ich werde an der LB 294 arbeiten, wo ich ein historischer event finder programmiere.
+
 
 
