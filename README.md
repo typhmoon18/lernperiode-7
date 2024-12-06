@@ -38,5 +38,8 @@ Ich habe an der Lb gearbeitet und die ersten 3 Handlungsziele fertiggestellt. Ic
 ## 6.11
 Ich werde an der LB 294 arbeiten, wo ich ein historischer event finder programmiere.
 
+Reflexion:
+Ich habe heute erfolgreich meinen Grundcode abschliessen können. Ich hatte keine Probleme und konnte gut arbeiten
+
 
 
