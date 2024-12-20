@@ -35,11 +35,19 @@ Ich werde an der LB vom Modul 364 arbeiten.
 Reflexion:
 Ich habe an der Lb gearbeitet und die ersten 3 Handlungsziele fertiggestellt. Ich hatte primär probleme mit der Lb und wie sie aufgebaut war (keine Aufgaben, nur Erwartungen an die Löung, welche sehr ungenau beschrieben wurden) auch das technische Konzept vom System bereitete mir Probleme. Schlussendlich konnte ich trotzem pünktlich alles abschliessen.
 
-## 6.11
+## 6.12
 Ich werde an der LB 294 arbeiten, wo ich ein historischer event finder programmiere.
 
 Reflexion:
 Ich habe heute erfolgreich meinen Grundcode abschliessen können. Ich hatte keine Probleme und konnte gut arbeiten
+
+## 13.12
+Ich werde am Modul 450 und am Modul 347 arbeiten, da ich nicht sehr produktiv in den Stunden wahr.
+Reflexion:
+Ich habe einzelne Aufträge wiederholt und nochmals angeschaut. Zb Unittesting war bei mir ein grosses Thema, da ich bis dann noch nicht soviel gewusst habe.
+
+## 20.12
+Ich werde das Modul 295 weitermachen.
 
 
 
